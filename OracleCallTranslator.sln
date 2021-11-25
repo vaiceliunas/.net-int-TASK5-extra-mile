@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31729.503
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OracleCallTranslator", "OracleCallTranslator\OracleCallTranslator.csproj", "{0CE74D66-80A1-4F32-82AF-BC969269163E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OracleDbCallerTests", "OracleDbCallerTests\OracleDbCallerTests.csproj", "{5E5549F9-3945-4B59-83CC-35E832AD0597}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0CE74D66-80A1-4F32-82AF-BC969269163E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0CE74D66-80A1-4F32-82AF-BC969269163E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0CE74D66-80A1-4F32-82AF-BC969269163E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0CE74D66-80A1-4F32-82AF-BC969269163E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5E5549F9-3945-4B59-83CC-35E832AD0597}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5E5549F9-3945-4B59-83CC-35E832AD0597}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5E5549F9-3945-4B59-83CC-35E832AD0597}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5E5549F9-3945-4B59-83CC-35E832AD0597}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4B69D23B-346D-4971-BB70-61AA3FC6D3CB}
+	EndGlobalSection
+EndGlobal
