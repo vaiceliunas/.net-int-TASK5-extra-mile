@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace OracleCallTranslator.Entities
 {
-    public class Team : BaseOCTEntity
+    public class Team
     {
         public int Id { get; set; }
         public string Name { get; set; }
